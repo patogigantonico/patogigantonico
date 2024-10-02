@@ -1,3 +1,5 @@
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=patogigantonico&show_icons=true&bg_color=00000000&locale=pt-br)
+
 ## 🧑 SOBRE MIM
   Programador backend focado em desenvolvimento de jogos e software, atualmente em busca de estágio na área. \
   Sou um grande amante de música e gosto de tocar violão ou guitarra nas horas vagas, também sou um fã videogames principalmente jogos RTS.
