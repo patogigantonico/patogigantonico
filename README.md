@@ -1,16 +1,30 @@
-## Hi there 👋
+## 🧑 SOBRE MIM
+  Programador backend focado em desenvolvimento de jogos e software, atualmente em busca de estágio na área. \
+  Sou um grande amante de música e gosto de tocar violão ou guitarra nas horas vagas, também sou um fã videogames principalmente jogos RTS.
 
-<!--
-**patogigantonico/patogigantonico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📋 EXPERIÊNCIA
+📌 **DESENVOLVIMENTO DE JOGOS (PROGRAMAÇÃO E DESIGN);** \
+📌 **DESENVOLVIMENTO DE APLICAÇÕES (WINDOWS FORMS);** \
+📌 **CRIAÇÃO DE SITES;** \
+📌 **GERENCIAMENTO E MODELAGEM DE BANCO DE DADOS RELACIONAIS;** \
+📌 **MODELAGEM 3D (BÁSICA).**
 
-Here are some ideas to get you started:
+## 🔧 TECNOLOGIAS QUE UTILIZO
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ FERRAMENTAS PARA GERENCIAR BANCO DE DADOS
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
+## SOFTWARES DE MODELAGEM
+![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) 
+
+## GAME ENGINES
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+
+## ⚙️ IDE'S DE DESENVOLVIMENTO
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
