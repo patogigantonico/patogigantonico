@@ -5,7 +5,7 @@
   Sou um grande amante de música e gosto de tocar violão ou guitarra nas horas vagas, também sou um fã videogames principalmente jogos RTS e FPS.
 
 ## 📋 EXPERIÊNCIA
-📌 **DESENVOLVIMENTO DE JOGOS (PROGRAMAÇÃO E DESIGN);** \
+📌 **DESENVOLVIMENTO DE JOGOS (PROGRAMAÇÃO, DESIGN E ANIMAÇÃO);** \
 📌 **DESENVOLVIMENTO DE APLICAÇÕES (WINDOWS FORMS);** \
 📌 **CRIAÇÃO DE SITES (DESIGN E INTERATIVIDADES BÁSICAS);** \
 📌 **GERENCIAMENTO E MODELAGEM DE BANCO DE DADOS RELACIONAIS;** \
